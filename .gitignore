@@ -104,4 +104,4 @@ dist
 .tern-port
 
 .ignore.txt
-.index3.html
+/index3.html
