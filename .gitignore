@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-.ignore.txt
-/index3.html
+ignore.txt
+index3.html
